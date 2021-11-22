@@ -6,6 +6,6 @@ A clone of the lodash JavaScript library to practice creating various types of f
 
 ## Table Of Contents
 
-1. [assertEqual](/assertEqual)
-2. [head](/head)
-3. [tail](/tail)
+1. [assertEqual](/assertEqual.js)
+2. [head](/head.js)
+3. [tail](/tail.js)
