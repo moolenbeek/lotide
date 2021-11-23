@@ -9,3 +9,4 @@ A clone of the lodash JavaScript library to practice creating various types of f
 1. [Assert Equal](/assertEqual.js)
 2. [head](/head.js)
 3. [tail](/tail.js)
+4. [eqArrays](/eqArrays.js)
