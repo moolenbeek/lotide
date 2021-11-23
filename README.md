@@ -11,3 +11,4 @@ A clone of the lodash JavaScript library to practice creating various types of f
 3. [tail](/tail.js)
 4. [eqArrays](/eqArrays.js)
 5. [assertArraysEqual](/assertArraysEqual.js)
+6. [without](/without.js)
