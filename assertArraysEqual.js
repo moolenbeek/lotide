@@ -1,4 +1,4 @@
-const eqArraysassertArraysEqual = (arr1, arr2) => {
+const assertArraysEqual = (arr1, arr2) => {
   if (JSON.stringify(arr1) === JSON.stringify(arr2)) {
     console.log(`true: ${arr1} === ${arr2}`)
   } else {
