@@ -17,3 +17,4 @@ A clone of the lodash JavaScript library to practice creating various types of f
 9. [countOnly](/countOnly.js)
 10. [countLetters](/countLetters.js)
 11. [letterPositions](/letterPositions.js)
+12. [findKeyByValue](/findKeyByValue.js)
