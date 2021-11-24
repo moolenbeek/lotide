@@ -13,3 +13,7 @@ A clone of the lodash JavaScript library to practice creating various types of f
 5. [assertArraysEqual](/assertArraysEqual.js)
 6. [without](/without.js)
 7. [flatten](/flatten.js)
+8. [middle](/middle.js)
+9. [countOnly](/countOnly.js)
+10. [countLetters](/countLetters.js)
+11. [letterPositions](/letterPositions.js)
