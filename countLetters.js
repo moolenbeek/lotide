@@ -19,7 +19,7 @@ const countLetters = (data) => {
       output[letter]++;
     }
   }
-  console.log(output);
+  return output;
 };
 
 countLetters("lighthouse in the house");
