@@ -22,3 +22,4 @@ A clone of the lodash JavaScript library to practice creating various types of f
 14. [assertObjectsEqual](/assertObjectsEqual.js)
 15. [map](/map.js)
 16. [takeUntil](/takeUntil.js)
+17. [findKey](/findKey.js)
