@@ -1,5 +1,5 @@
 {
-  "name": "lotide",
+  "name": "@emoolenbeek/lotide",
   "version": "1.0.0",
   "description": "## Summary",
   "main": "assertArraysEqual.js",
@@ -11,9 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moolenbeek/lotide.git"
+    "url": "https://github.com/moolenbeek/lotide.git"
   },
-  "author": "",
+  "author": {
+    "name" : "Eric Moolenbeek",
+    "email" : "emoolenbeek@gmail.com",
+    "url" : "https://github.com/moolenbeek"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/moolenbeek/lotide/issues"
